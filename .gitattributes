@@ -1,0 +1,85 @@
+# Ensure consistent line endings for text files
+* text=auto
+
+# Explicitly set text files
+*.txt text
+*.md text
+*.ini text
+*.py text
+*.mel text
+*.h text
+*.cpp text
+*.c text
+*.cs text
+*.json text
+*.xml text
+*.yaml text
+*.yml text
+*.bat text
+*.sh text
+
+# Binary files (no diff, no merge)
+*.uasset binary
+*.umap binary
+*.fbx binary
+*.obj binary
+*.tga binary
+*.png binary
+*.jpg binary
+*.exr binary
+*.tif binary
+*.hdr binary
+*.psd binary
+*.mov binary
+*.mp4 binary
+*.avi binary
+*.wav binary
+*.ogg binary
+*.abc binary
+*.vdb binary
+*.bgeo binary
+*.bgeo.sc binary
+*.pc2 binary
+*.mdd binary
+*.sim binary
+*.spp binary
+*.sbs binary
+*.sbsar binary
+*.blend binary
+*.mb binary
+*.ma binary
+*.hip binary
+*.hiplc binary
+
+# Git LFS for large assets
+*.uasset filter=lfs diff=lfs merge=lfs -text
+*.umap filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.obj filter=lfs diff=lfs merge=lfs -text
+*.tga filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.exr filter=lfs diff=lfs merge=lfs -text
+*.tif filter=lfs diff=lfs merge=lfs -text
+*.hdr filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.mov filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.avi filter=lfs diff=lfs merge=lfs -text
+*.wav filter=lfs diff=lfs merge=lfs -text
+*.ogg filter=lfs diff=lfs merge=lfs -text
+*.abc filter=lfs diff=lfs merge=lfs -text
+*.vdb filter=lfs diff=lfs merge=lfs -text
+*.bgeo filter=lfs diff=lfs merge=lfs -text
+*.bgeo.sc filter=lfs diff=lfs merge=lfs -text
+*.pc2 filter=lfs diff=lfs merge=lfs -text
+*.mdd filter=lfs diff=lfs merge=lfs -text
+*.sim filter=lfs diff=lfs merge=lfs -text
+*.spp filter=lfs diff=lfs merge=lfs -text
+*.sbs filter=lfs diff=lfs merge=lfs -text
+*.sbsar filter=lfs diff=lfs merge=lfs -text
+*.blend filter=lfs diff=lfs merge=lfs -text
+*.mb filter=lfs diff=lfs merge=lfs -text
+*.ma filter=lfs diff=lfs merge=lfs -text
+*.hip filter=lfs diff=lfs merge=lfs -text
+*.hiplc filter=lfs diff=lfs merge=lfs -text

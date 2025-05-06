@@ -1,0 +1,143 @@
+# General
+*.bak
+*.tmp
+*.log
+*.cache
+*.swp
+*.DS_Store
+Thumbs.db
+*.lock
+
+# Houdini
+*.hws
+*.hip.bak*
+/geo/cache/
+/cache/
+/point_cache/
+/geo_cache/
+/sim/cache/
+/flip/cache/
+/houdini_temp/
+/temp/
+/backup/
+*.bgeo
+*.bgeo.sc
+*.sim
+*.simdata
+*.pic
+*.picnc
+*.rat
+
+# Blender
+*.blend1
+*.blend2
+*.blend.bak
+/blender_backup/
+/cache/
+*.bphys
+*.pyc
+/__pycache__/
+
+# Maya
+*.mb.bak
+*.ma.bak
+/workspace.mel
+/scenes/autosave/
+/scenes/backup/
+/incrementalSave/
+/data/cache/
+/cache/
+/renderData/
+/particles/
+/clips/
+/movies/
+/sound/
+/sourceimages/3dPaintTextures/
+/mayaRenderLog.txt
+*.furFiles
+*.furImages
+*.outFurImages
+*.iff
+*.exr
+
+# Substance Painter/Designer
+*.spp.bak
+*.sbs.bak
+*.sbsar.bak
+/export/
+/cache/
+/temp/
+/autosave/
+/backup/
+*.tga
+*.png
+*.jpg
+*.exr
+*.psd
+
+# Unreal Engine
+/Content/DerivedDataCache/
+/Content/Collections/
+/Content/Developers/
+/Content/Intermediate/
+/Content/Saved/
+/Build/
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/*.sln
+/*.vcxproj
+/*.vcxproj.filters
+/*.vcxproj.user
+/*.code-workspace
+*.pdb
+*.suo
+*.opensdf
+*.sdf
+*.uprojectdirs
+*.log
+*.generated.h
+*.generated.cpp
+*.autosave
+
+# Git LFS tracking (optional, placeholders for large files)
+# *.uasset
+# *.umap
+# *.fbx
+# *.obj
+# *.tga
+# *.png
+# *.jpg
+# *.exr
+# *.psd
+# *.mp4
+# *.mov
+# *.wav
+# *.ogg
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-Specific
+.DS_Store
+Thumbs.db
+
+# Python and Virtual Environments
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+venv/
+.env/
+env/
+*.egg-info/
+
+# Miscellaneous
+/node_modules/
+/dist/
+/build/
+/out/
