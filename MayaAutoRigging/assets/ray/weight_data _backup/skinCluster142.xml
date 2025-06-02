@@ -1,0 +1,860 @@
+<?xml version="1.0"?>
+<deformerWeight>
+  <headerInfo fileName="C:/Users/quynh/Documents/maya/project/weight_data/skinCluster142.xml" worldMatrix="1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 "/>
+  <shape name="EyeLashesShape" group="34324" stride="3" size="192" max="191">
+    <point index="0" value=" -0.255243 16.644899 1.158934"/>
+    <point index="1" value=" -0.229648 16.607513 1.154183"/>
+    <point index="2" value=" -0.299633 16.678783 1.162728"/>
+    <point index="3" value=" -0.347518 16.700449 1.159977"/>
+    <point index="4" value=" -0.564041 16.621054 1.060090"/>
+    <point index="5" value=" -0.584792 16.579378 1.038233"/>
+    <point index="6" value=" -0.586309 16.549318 1.028236"/>
+    <point index="7" value=" -0.213411 16.567423 1.149371"/>
+    <point index="8" value=" -0.414613 16.700459 1.144550"/>
+    <point index="9" value=" -0.482787 16.687311 1.119230"/>
+    <point index="10" value=" -0.531283 16.660212 1.091622"/>
+    <point index="11" value=" -0.202096 16.529747 1.143240"/>
+    <point index="12" value=" -0.251038 16.649952 1.159074"/>
+    <point index="13" value=" -0.225555 16.610912 1.154975"/>
+    <point index="14" value=" -0.210065 16.569595 1.151255"/>
+    <point index="15" value=" -0.200177 16.529957 1.144626"/>
+    <point index="16" value=" -0.588437 16.549198 1.025538"/>
+    <point index="17" value=" -0.586395 16.582005 1.035683"/>
+    <point index="18" value=" -0.565363 16.624306 1.058450"/>
+    <point index="19" value=" -0.531602 16.665028 1.089971"/>
+    <point index="20" value=" -0.482993 16.692551 1.119342"/>
+    <point index="21" value=" -0.414632 16.706190 1.145805"/>
+    <point index="22" value=" -0.347128 16.705463 1.159923"/>
+    <point index="23" value=" -0.297070 16.684793 1.161920"/>
+    <point index="24" value=" -0.200514 16.530472 1.152849"/>
+    <point index="25" value=" -0.202431 16.530252 1.151462"/>
+    <point index="26" value=" -0.213316 16.574095 1.163682"/>
+    <point index="27" value=" -0.209970 16.576267 1.165565"/>
+    <point index="28" value=" -0.252806 16.650440 1.186692"/>
+    <point index="29" value=" -0.248625 16.655510 1.186835"/>
+    <point index="30" value=" -0.224402 16.616714 1.176005"/>
+    <point index="31" value=" -0.228495 16.613312 1.175212"/>
+    <point index="32" value=" -0.297934 16.685448 1.196082"/>
+    <point index="33" value=" -0.295394 16.691469 1.195273"/>
+    <point index="34" value=" -0.361821 16.712954 1.202703"/>
+    <point index="35" value=" -0.362195 16.707937 1.202761"/>
+    <point index="36" value=" -0.426685 16.713732 1.195707"/>
+    <point index="37" value=" -0.426962 16.708017 1.194403"/>
+    <point index="38" value=" -0.495259 16.700125 1.169226"/>
+    <point index="39" value=" -0.495052 16.694885 1.169113"/>
+    <point index="40" value=" -0.545581 16.666452 1.135908"/>
+    <point index="41" value=" -0.545899 16.671268 1.134257"/>
+    <point index="42" value=" -0.583824 16.625795 1.091984"/>
+    <point index="43" value=" -0.585147 16.629047 1.090344"/>
+    <point index="44" value=" -0.599057 16.586443 1.054946"/>
+    <point index="45" value=" -0.600660 16.589067 1.052396"/>
+    <point index="46" value=" -0.596315 16.549795 1.037282"/>
+    <point index="47" value=" -0.598532 16.550007 1.034676"/>
+    <point index="48" value=" -0.533894 16.666027 1.097073"/>
+    <point index="49" value=" -0.568536 16.625065 1.063565"/>
+    <point index="50" value=" -0.588682 16.583138 1.038363"/>
+    <point index="51" value=" -0.590095 16.549194 1.026939"/>
+    <point index="52" value=" -0.587914 16.549395 1.029687"/>
+    <point index="53" value=" -0.587080 16.580511 1.040913"/>
+    <point index="54" value=" -0.567213 16.621813 1.065205"/>
+    <point index="55" value=" -0.533576 16.661211 1.098724"/>
+    <point index="56" value=" -0.484754 16.688524 1.127229"/>
+    <point index="57" value=" -0.416593 16.701668 1.152545"/>
+    <point index="58" value=" -0.349872 16.701649 1.166838"/>
+    <point index="59" value=" -0.299361 16.679850 1.168077"/>
+    <point index="60" value=" -0.254852 16.645786 1.163386"/>
+    <point index="61" value=" -0.229463 16.608442 1.157555"/>
+    <point index="62" value=" -0.213395 16.568493 1.151666"/>
+    <point index="63" value=" -0.202150 16.529827 1.144558"/>
+    <point index="64" value=" -0.200233 16.530046 1.145946"/>
+    <point index="65" value=" -0.210050 16.570665 1.153550"/>
+    <point index="66" value=" -0.225370 16.611843 1.158347"/>
+    <point index="67" value=" -0.250672 16.650858 1.163528"/>
+    <point index="68" value=" -0.296807 16.685867 1.167269"/>
+    <point index="69" value=" -0.349497 16.706665 1.166781"/>
+    <point index="70" value=" -0.416316 16.707382 1.153849"/>
+    <point index="71" value=" -0.484960 16.693764 1.127342"/>
+    <point index="72" value=" -0.543706 16.670311 1.127464"/>
+    <point index="73" value=" -0.582112 16.628321 1.085451"/>
+    <point index="74" value=" -0.598472 16.587984 1.049832"/>
+    <point index="75" value=" -0.596997 16.549934 1.033288"/>
+    <point index="76" value=" -0.594780 16.549723 1.035895"/>
+    <point index="77" value=" -0.596869 16.585360 1.052382"/>
+    <point index="78" value=" -0.580789 16.625067 1.087091"/>
+    <point index="79" value=" -0.543388 16.665495 1.129115"/>
+    <point index="80" value=" -0.493170 16.693724 1.161462"/>
+    <point index="81" value=" -0.425067 16.706858 1.186757"/>
+    <point index="82" value=" -0.359944 16.706785 1.196199"/>
+    <point index="83" value=" -0.298195 16.684423 1.190966"/>
+    <point index="84" value=" -0.253180 16.649590 1.182435"/>
+    <point index="85" value=" -0.228672 16.612423 1.171987"/>
+    <point index="86" value=" -0.213330 16.573071 1.161486"/>
+    <point index="87" value=" -0.202380 16.530174 1.150201"/>
+    <point index="88" value=" -0.200463 16.530394 1.151588"/>
+    <point index="89" value=" -0.209984 16.575245 1.163370"/>
+    <point index="90" value=" -0.224579 16.615824 1.172779"/>
+    <point index="91" value=" -0.248999 16.654661 1.182577"/>
+    <point index="92" value=" -0.295655 16.690447 1.190157"/>
+    <point index="93" value=" -0.359570 16.711803 1.196141"/>
+    <point index="94" value=" -0.424790 16.712572 1.188060"/>
+    <point index="95" value=" -0.493377 16.698961 1.161575"/>
+    <point index="96" value=" 0.256606 16.647955 1.159178"/>
+    <point index="97" value=" 0.230169 16.609579 1.155031"/>
+    <point index="98" value=" 0.302143 16.682756 1.161667"/>
+    <point index="99" value=" 0.350886 16.705009 1.157988"/>
+    <point index="100" value=" 0.564716 16.623075 1.060467"/>
+    <point index="101" value=" 0.585128 16.580240 1.038501"/>
+    <point index="102" value=" 0.586328 16.549297 1.028219"/>
+    <point index="103" value=" 0.213420 16.568434 1.150292"/>
+    <point index="104" value=" 0.418113 16.704950 1.142560"/>
+    <point index="105" value=" 0.485368 16.691320 1.116790"/>
+    <point index="106" value=" 0.532893 16.663387 1.089925"/>
+    <point index="107" value=" 0.202098 16.529669 1.143239"/>
+    <point index="108" value=" 0.252400 16.653008 1.159325"/>
+    <point index="109" value=" 0.226102 16.613012 1.155818"/>
+    <point index="110" value=" 0.210091 16.570642 1.152176"/>
+    <point index="111" value=" 0.200169 16.529840 1.144618"/>
+    <point index="112" value=" 0.588539 16.549440 1.025589"/>
+    <point index="113" value=" 0.586756 16.582830 1.035928"/>
+    <point index="114" value=" 0.566127 16.626238 1.058731"/>
+    <point index="115" value=" 0.533310 16.668171 1.088215"/>
+    <point index="116" value=" 0.485625 16.696558 1.116892"/>
+    <point index="117" value=" 0.418137 16.710682 1.143814"/>
+    <point index="118" value=" 0.350500 16.710026 1.157932"/>
+    <point index="119" value=" 0.299551 16.688753 1.160857"/>
+    <point index="120" value=" 0.200470 16.530262 1.152860"/>
+    <point index="121" value=" 0.202397 16.530085 1.151481"/>
+    <point index="122" value=" 0.213439 16.575354 1.164597"/>
+    <point index="123" value=" 0.210110 16.577562 1.166480"/>
+    <point index="124" value=" 0.254767 16.653957 1.186897"/>
+    <point index="125" value=" 0.250582 16.659023 1.187044"/>
+    <point index="126" value=" 0.225252 16.619226 1.176796"/>
+    <point index="127" value=" 0.229319 16.615789 1.176009"/>
+    <point index="128" value=" 0.300916 16.689636 1.194998"/>
+    <point index="129" value=" 0.298344 16.695644 1.194187"/>
+    <point index="130" value=" 0.365190 16.717508 1.200716"/>
+    <point index="131" value=" 0.365560 16.712492 1.200775"/>
+    <point index="132" value=" 0.430803 16.718174 1.193581"/>
+    <point index="133" value=" 0.431019 16.712456 1.192280"/>
+    <point index="134" value=" 0.498501 16.704069 1.166623"/>
+    <point index="135" value=" 0.498244 16.698832 1.166521"/>
+    <point index="136" value=" 0.547294 16.669819 1.134118"/>
+    <point index="137" value=" 0.547711 16.674603 1.132408"/>
+    <point index="138" value=" 0.584329 16.628387 1.092341"/>
+    <point index="139" value=" 0.585741 16.631550 1.090606"/>
+    <point index="140" value=" 0.599506 16.587326 1.055158"/>
+    <point index="141" value=" 0.601134 16.589914 1.052585"/>
+    <point index="142" value=" 0.596368 16.549749 1.037255"/>
+    <point index="143" value=" 0.598578 16.549917 1.034634"/>
+    <point index="144" value=" 0.535619 16.669201 1.095302"/>
+    <point index="145" value=" 0.569273 16.627089 1.063843"/>
+    <point index="146" value=" 0.589062 16.583965 1.038599"/>
+    <point index="147" value=" 0.590149 16.549528 1.027044"/>
+    <point index="148" value=" 0.587937 16.549385 1.029673"/>
+    <point index="149" value=" 0.587434 16.581377 1.041172"/>
+    <point index="150" value=" 0.567862 16.623926 1.065578"/>
+    <point index="151" value=" 0.535203 16.664417 1.097012"/>
+    <point index="152" value=" 0.487433 16.692524 1.124765"/>
+    <point index="153" value=" 0.420183 16.706152 1.150534"/>
+    <point index="154" value=" 0.353239 16.706207 1.164850"/>
+    <point index="155" value=" 0.301946 16.683859 1.167012"/>
+    <point index="156" value=" 0.256311 16.648916 1.163623"/>
+    <point index="157" value=" 0.230033 16.610575 1.158395"/>
+    <point index="158" value=" 0.213423 16.569544 1.152586"/>
+    <point index="159" value=" 0.202146 16.529736 1.144561"/>
+    <point index="160" value=" 0.200219 16.529913 1.145940"/>
+    <point index="161" value=" 0.210094 16.571753 1.154470"/>
+    <point index="162" value=" 0.225965 16.614010 1.159182"/>
+    <point index="163" value=" 0.252126 16.653984 1.163771"/>
+    <point index="164" value=" 0.299362 16.689861 1.166202"/>
+    <point index="165" value=" 0.352869 16.711226 1.164791"/>
+    <point index="166" value=" 0.419966 16.711870 1.151834"/>
+    <point index="167" value=" 0.487690 16.697760 1.124868"/>
+    <point index="168" value=" 0.545502 16.673616 1.125629"/>
+    <point index="169" value=" 0.582732 16.630735 1.085716"/>
+    <point index="170" value=" 0.598929 16.588825 1.050030"/>
+    <point index="171" value=" 0.597038 16.549849 1.033248"/>
+    <point index="172" value=" 0.594828 16.549679 1.035869"/>
+    <point index="173" value=" 0.597301 16.586239 1.052603"/>
+    <point index="174" value=" 0.581321 16.627571 1.087452"/>
+    <point index="175" value=" 0.545085 16.668833 1.127339"/>
+    <point index="176" value=" 0.496269 16.697680 1.158893"/>
+    <point index="177" value=" 0.429039 16.711306 1.184654"/>
+    <point index="178" value=" 0.363309 16.711342 1.194212"/>
+    <point index="179" value=" 0.301104 16.688580 1.189885"/>
+    <point index="180" value=" 0.255049 16.653036 1.182645"/>
+    <point index="181" value=" 0.229450 16.614838 1.172791"/>
+    <point index="182" value=" 0.213436 16.574291 1.162403"/>
+    <point index="183" value=" 0.202351 16.530022 1.150216"/>
+    <point index="184" value=" 0.200424 16.530199 1.151595"/>
+    <point index="185" value=" 0.210107 16.576502 1.164286"/>
+    <point index="186" value=" 0.225382 16.618273 1.173578"/>
+    <point index="187" value=" 0.250864 16.658104 1.182792"/>
+    <point index="188" value=" 0.298532 16.694590 1.189074"/>
+    <point index="189" value=" 0.362939 16.716360 1.194153"/>
+    <point index="190" value=" 0.428823 16.717024 1.185954"/>
+    <point index="191" value=" 0.496526 16.702915 1.158995"/>
+  </shape>
+  <weights deformer="skinCluster142" source="ray_sk_cn_pelvis_noscale" shape="EyeLashesShape" layer="0" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_cn_spine_1" shape="EyeLashesShape" layer="1" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_cn_spine_2" shape="EyeLashesShape" layer="2" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_cn_spine_3" shape="EyeLashesShape" layer="3" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_cn_spine_4" shape="EyeLashesShape" layer="4" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_cn_spine_5" shape="EyeLashesShape" layer="5" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_cn_spine_6" shape="EyeLashesShape" layer="6" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_cn_chest_noscale" shape="EyeLashesShape" layer="7" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_shoulder_twist1" shape="EyeLashesShape" layer="8" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_shoulder_twist8" shape="EyeLashesShape" layer="9" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_shoulder_twist6" shape="EyeLashesShape" layer="10" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_shoulder_twist5" shape="EyeLashesShape" layer="11" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_shoulder_twist4" shape="EyeLashesShape" layer="12" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_shoulder_twist3" shape="EyeLashesShape" layer="13" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_shoulder_twist2" shape="EyeLashesShape" layer="14" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_shoulder_twist7" shape="EyeLashesShape" layer="15" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_forearm_twist1" shape="EyeLashesShape" layer="16" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_forearm_twist2" shape="EyeLashesShape" layer="17" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_forearm_twist3" shape="EyeLashesShape" layer="18" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_forearm_twist4" shape="EyeLashesShape" layer="19" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_forearm_twist5" shape="EyeLashesShape" layer="20" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_forearm_twist6" shape="EyeLashesShape" layer="21" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_forearm_twist7" shape="EyeLashesShape" layer="22" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_forearm_twist8" shape="EyeLashesShape" layer="23" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_hand" shape="EyeLashesShape" layer="24" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_cn_neck_3" shape="EyeLashesShape" layer="25" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_cn_neck_2" shape="EyeLashesShape" layer="26" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_cn_neck_1" shape="EyeLashesShape" layer="27" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_cn_head" shape="EyeLashesShape" layer="28" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_shoulder_twist1" shape="EyeLashesShape" layer="29" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_shoulder_twist2" shape="EyeLashesShape" layer="30" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_shoulder_twist3" shape="EyeLashesShape" layer="31" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_shoulder_twist4" shape="EyeLashesShape" layer="32" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_shoulder_twist5" shape="EyeLashesShape" layer="33" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_shoulder_twist6" shape="EyeLashesShape" layer="34" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_shoulder_twist7" shape="EyeLashesShape" layer="35" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_shoulder_twist8" shape="EyeLashesShape" layer="36" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_forearm_twist2" shape="EyeLashesShape" layer="37" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_forearm_twist1" shape="EyeLashesShape" layer="38" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_forearm_twist3" shape="EyeLashesShape" layer="39" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_forearm_twist4" shape="EyeLashesShape" layer="40" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_forearm_twist5" shape="EyeLashesShape" layer="41" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_forearm_twist6" shape="EyeLashesShape" layer="42" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_forearm_twist7" shape="EyeLashesShape" layer="43" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_forearm_twist8" shape="EyeLashesShape" layer="44" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_hand" shape="EyeLashesShape" layer="45" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_hip_twist7" shape="EyeLashesShape" layer="46" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_hip_twist7" shape="EyeLashesShape" layer="47" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_hip_twist6" shape="EyeLashesShape" layer="48" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_hip_twist5" shape="EyeLashesShape" layer="49" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_hip_twist4" shape="EyeLashesShape" layer="50" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_hip_twist3" shape="EyeLashesShape" layer="51" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_hip_twist2" shape="EyeLashesShape" layer="52" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_hip_twist1" shape="EyeLashesShape" layer="53" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_hip_twist6" shape="EyeLashesShape" layer="54" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_hip_twist5" shape="EyeLashesShape" layer="55" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_hip_twist4" shape="EyeLashesShape" layer="56" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_hip_twist3" shape="EyeLashesShape" layer="57" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_hip_twist2" shape="EyeLashesShape" layer="58" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_hip_twist1" shape="EyeLashesShape" layer="59" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_lowleg_twist1" shape="EyeLashesShape" layer="60" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_lowleg_twist2" shape="EyeLashesShape" layer="61" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_lowleg_twist3" shape="EyeLashesShape" layer="62" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_lowleg_twist4" shape="EyeLashesShape" layer="63" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_lowleg_twist5" shape="EyeLashesShape" layer="64" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_lowleg_twist6" shape="EyeLashesShape" layer="65" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_lowleg_twist7" shape="EyeLashesShape" layer="66" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_foot" shape="EyeLashesShape" layer="67" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_foot" shape="EyeLashesShape" layer="68" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_lf_index3" shape="EyeLashesShape" layer="69" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_lf_index2" shape="EyeLashesShape" layer="70" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_lf_index1" shape="EyeLashesShape" layer="71" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_lf_middle3" shape="EyeLashesShape" layer="72" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_lf_middle2" shape="EyeLashesShape" layer="73" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_lf_middle1" shape="EyeLashesShape" layer="74" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_lf_ring3" shape="EyeLashesShape" layer="75" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_lf_ring2" shape="EyeLashesShape" layer="76" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_lf_ring1" shape="EyeLashesShape" layer="77" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_lf_pinkey3" shape="EyeLashesShape" layer="78" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_lf_pinkey2" shape="EyeLashesShape" layer="79" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_lf_pinkey1" shape="EyeLashesShape" layer="80" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_lf_thumb3" shape="EyeLashesShape" layer="81" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_lf_thumb2" shape="EyeLashesShape" layer="82" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_lf_thumb1" shape="EyeLashesShape" layer="83" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_rt_index3" shape="EyeLashesShape" layer="84" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_rt_index2" shape="EyeLashesShape" layer="85" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_rt_index1" shape="EyeLashesShape" layer="86" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_rt_middle3" shape="EyeLashesShape" layer="87" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_rt_middle2" shape="EyeLashesShape" layer="88" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_rt_middle1" shape="EyeLashesShape" layer="89" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_rt_ring3" shape="EyeLashesShape" layer="90" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_rt_ring2" shape="EyeLashesShape" layer="91" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_rt_ring1" shape="EyeLashesShape" layer="92" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_rt_pinkey3" shape="EyeLashesShape" layer="93" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_rt_pinkey2" shape="EyeLashesShape" layer="94" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_rt_pinkey1" shape="EyeLashesShape" layer="95" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_rt_thumb3" shape="EyeLashesShape" layer="96" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_rt_thumb2" shape="EyeLashesShape" layer="97" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_rt_thumb1" shape="EyeLashesShape" layer="98" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_lowleg_twist7" shape="EyeLashesShape" layer="99" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_lowleg_twist6" shape="EyeLashesShape" layer="100" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_lowleg_twist5" shape="EyeLashesShape" layer="101" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_lowleg_twist4" shape="EyeLashesShape" layer="102" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_lowleg_twist3" shape="EyeLashesShape" layer="103" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_lowleg_twist2" shape="EyeLashesShape" layer="104" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_lowleg_twist1" shape="EyeLashesShape" layer="105" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_clavicle" shape="EyeLashesShape" layer="106" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_clavicle" shape="EyeLashesShape" layer="107" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_pants" shape="EyeLashesShape" layer="108" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_pants" shape="EyeLashesShape" layer="109" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_rt_index0" shape="EyeLashesShape" layer="110" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_rt_middle0" shape="EyeLashesShape" layer="111" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_rt_ring0" shape="EyeLashesShape" layer="112" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_rt_pinkey0" shape="EyeLashesShape" layer="113" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_lf_pinkey0" shape="EyeLashesShape" layer="114" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_lf_ring0" shape="EyeLashesShape" layer="115" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_lf_middle0" shape="EyeLashesShape" layer="116" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_ac_lf_index0" shape="EyeLashesShape" layer="117" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_cn_jaw" shape="EyeLashesShape" layer="118" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_uplip2" shape="EyeLashesShape" layer="119" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_uplip3" shape="EyeLashesShape" layer="120" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_uplip4" shape="EyeLashesShape" layer="121" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_uplip5" shape="EyeLashesShape" layer="122" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_uplip6" shape="EyeLashesShape" layer="123" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_uplip7" shape="EyeLashesShape" layer="124" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_uplip8" shape="EyeLashesShape" layer="125" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_cornerlip" shape="EyeLashesShape" layer="126" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_lowlip2" shape="EyeLashesShape" layer="127" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_lowlip3" shape="EyeLashesShape" layer="128" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_lowlip4" shape="EyeLashesShape" layer="129" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_lowlip5" shape="EyeLashesShape" layer="130" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_lowlip6" shape="EyeLashesShape" layer="131" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_lowlip7" shape="EyeLashesShape" layer="132" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_lowlip8" shape="EyeLashesShape" layer="133" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_uplip1" shape="EyeLashesShape" layer="134" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_uplip2" shape="EyeLashesShape" layer="135" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_uplip3" shape="EyeLashesShape" layer="136" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_uplip4" shape="EyeLashesShape" layer="137" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_uplip5" shape="EyeLashesShape" layer="138" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_uplip6" shape="EyeLashesShape" layer="139" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_uplip7" shape="EyeLashesShape" layer="140" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_uplip8" shape="EyeLashesShape" layer="141" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_lowlip10" shape="EyeLashesShape" layer="142" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_lowlip11" shape="EyeLashesShape" layer="143" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_lowlip12" shape="EyeLashesShape" layer="144" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_lowlip13" shape="EyeLashesShape" layer="145" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_lowlip14" shape="EyeLashesShape" layer="146" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_lowlip15" shape="EyeLashesShape" layer="147" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_lowlip16" shape="EyeLashesShape" layer="148" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_cornerlip" shape="EyeLashesShape" layer="149" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_cn_uplip" shape="EyeLashesShape" layer="150" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_uplip1" shape="EyeLashesShape" layer="151" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_lf_lowlip1" shape="EyeLashesShape" layer="152" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_cn_lowlip" shape="EyeLashesShape" layer="153" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_lowlip9" shape="EyeLashesShape" layer="154" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_cn_upperhead2" shape="EyeLashesShape" layer="155" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_cn_upperhead3" shape="EyeLashesShape" layer="156" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_cn_upperhead1" shape="EyeLashesShape" layer="157" defaultValue="0.000" size="40" max="191">
+    <point index="24" value="0.005"/>
+    <point index="29" value="0.002"/>
+    <point index="32" value="0.002"/>
+    <point index="33" value="0.011"/>
+    <point index="34" value="0.012"/>
+    <point index="35" value="0.005"/>
+    <point index="36" value="0.015"/>
+    <point index="37" value="0.007"/>
+    <point index="38" value="0.002"/>
+    <point index="68" value="0.002"/>
+    <point index="69" value="0.002"/>
+    <point index="70" value="0.002"/>
+    <point index="81" value="0.005"/>
+    <point index="82" value="0.003"/>
+    <point index="88" value="0.005"/>
+    <point index="91" value="0.002"/>
+    <point index="92" value="0.010"/>
+    <point index="93" value="0.010"/>
+    <point index="94" value="0.013"/>
+    <point index="95" value="0.002"/>
+    <point index="120" value="0.005"/>
+    <point index="125" value="0.002"/>
+    <point index="128" value="0.002"/>
+    <point index="129" value="0.011"/>
+    <point index="130" value="0.011"/>
+    <point index="131" value="0.005"/>
+    <point index="132" value="0.014"/>
+    <point index="133" value="0.007"/>
+    <point index="134" value="0.002"/>
+    <point index="164" value="0.002"/>
+    <point index="165" value="0.002"/>
+    <point index="166" value="0.002"/>
+    <point index="177" value="0.005"/>
+    <point index="178" value="0.003"/>
+    <point index="184" value="0.005"/>
+    <point index="187" value="0.002"/>
+    <point index="188" value="0.009"/>
+    <point index="189" value="0.010"/>
+    <point index="190" value="0.012"/>
+    <point index="191" value="0.002"/>
+  </weights>
+  <weights deformer="skinCluster142" source="ray_sk_cn_lowerhead1" shape="EyeLashesShape" layer="158" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_cn_lowerhead2" shape="EyeLashesShape" layer="159" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_cn_lowerhead_noscale" shape="EyeLashesShape" layer="160" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_cn_upperhead_noscale" shape="EyeLashesShape" layer="161" defaultValue="0.000" size="0" max="0"/>
+  <weights deformer="skinCluster142" source="ray_sk_rt_eyesocket" shape="EyeLashesShape" layer="162" defaultValue="0.000" size="96" max="95">
+    <point index="0" value="0.413"/>
+    <point index="1" value="0.598"/>
+    <point index="2" value="0.124"/>
+    <point index="3" value="0.032"/>
+    <point index="4" value="0.509"/>
+    <point index="5" value="0.668"/>
+    <point index="6" value="0.721"/>
+    <point index="7" value="0.676"/>
+    <point index="8" value="0.032"/>
+    <point index="9" value="0.109"/>
+    <point index="10" value="0.257"/>
+    <point index="11" value="0.767"/>
+    <point index="12" value="0.421"/>
+    <point index="13" value="0.602"/>
+    <point index="14" value="0.685"/>
+    <point index="15" value="0.771"/>
+    <point index="16" value="0.757"/>
+    <point index="17" value="0.683"/>
+    <point index="18" value="0.525"/>
+    <point index="19" value="0.273"/>
+    <point index="20" value="0.133"/>
+    <point index="21" value="0.064"/>
+    <point index="22" value="0.032"/>
+    <point index="23" value="0.128"/>
+    <point index="24" value="0.813"/>
+    <point index="25" value="0.752"/>
+    <point index="26" value="0.696"/>
+    <point index="27" value="0.722"/>
+    <point index="28" value="0.421"/>
+    <point index="29" value="0.493"/>
+    <point index="30" value="0.643"/>
+    <point index="31" value="0.590"/>
+    <point index="32" value="0.147"/>
+    <point index="33" value="0.233"/>
+    <point index="34" value="0.155"/>
+    <point index="35" value="0.087"/>
+    <point index="36" value="0.201"/>
+    <point index="37" value="0.131"/>
+    <point index="38" value="0.218"/>
+    <point index="39" value="0.153"/>
+    <point index="40" value="0.230"/>
+    <point index="41" value="0.244"/>
+    <point index="42" value="0.486"/>
+    <point index="43" value="0.485"/>
+    <point index="44" value="0.661"/>
+    <point index="45" value="0.691"/>
+    <point index="46" value="0.716"/>
+    <point index="47" value="0.741"/>
+    <point index="48" value="0.266"/>
+    <point index="49" value="0.518"/>
+    <point index="50" value="0.682"/>
+    <point index="51" value="0.757"/>
+    <point index="52" value="0.720"/>
+    <point index="53" value="0.668"/>
+    <point index="54" value="0.505"/>
+    <point index="55" value="0.253"/>
+    <point index="56" value="0.117"/>
+    <point index="57" value="0.048"/>
+    <point index="58" value="0.032"/>
+    <point index="59" value="0.124"/>
+    <point index="60" value="0.410"/>
+    <point index="61" value="0.595"/>
+    <point index="62" value="0.677"/>
+    <point index="63" value="0.763"/>
+    <point index="64" value="0.772"/>
+    <point index="65" value="0.690"/>
+    <point index="66" value="0.609"/>
+    <point index="67" value="0.432"/>
+    <point index="68" value="0.145"/>
+    <point index="69" value="0.052"/>
+    <point index="70" value="0.085"/>
+    <point index="71" value="0.146"/>
+    <point index="72" value="0.248"/>
+    <point index="73" value="0.491"/>
+    <point index="74" value="0.689"/>
+    <point index="75" value="0.744"/>
+    <point index="76" value="0.717"/>
+    <point index="77" value="0.664"/>
+    <point index="78" value="0.489"/>
+    <point index="79" value="0.234"/>
+    <point index="80" value="0.140"/>
+    <point index="81" value="0.110"/>
+    <point index="82" value="0.068"/>
+    <point index="83" value="0.124"/>
+    <point index="84" value="0.398"/>
+    <point index="85" value="0.580"/>
+    <point index="86" value="0.689"/>
+    <point index="87" value="0.754"/>
+    <point index="88" value="0.810"/>
+    <point index="89" value="0.717"/>
+    <point index="90" value="0.636"/>
+    <point index="91" value="0.482"/>
+    <point index="92" value="0.217"/>
+    <point index="93" value="0.136"/>
+    <point index="94" value="0.180"/>
+    <point index="95" value="0.205"/>
+  </weights>
+  <weights deformer="skinCluster142" source="ray_sk_lf_eyesocket" shape="EyeLashesShape" layer="163" defaultValue="0.000" size="96" max="191">
+    <point index="96" value="0.265"/>
+    <point index="97" value="0.491"/>
+    <point index="98" value="0.119"/>
+    <point index="99" value="0.030"/>
+    <point index="100" value="0.468"/>
+    <point index="101" value="0.675"/>
+    <point index="102" value="0.757"/>
+    <point index="103" value="0.674"/>
+    <point index="104" value="0.032"/>
+    <point index="105" value="0.110"/>
+    <point index="106" value="0.259"/>
+    <point index="107" value="0.768"/>
+    <point index="108" value="0.275"/>
+    <point index="109" value="0.497"/>
+    <point index="110" value="0.684"/>
+    <point index="111" value="0.770"/>
+    <point index="112" value="0.766"/>
+    <point index="113" value="0.687"/>
+    <point index="114" value="0.484"/>
+    <point index="115" value="0.274"/>
+    <point index="116" value="0.134"/>
+    <point index="117" value="0.064"/>
+    <point index="118" value="0.030"/>
+    <point index="119" value="0.123"/>
+    <point index="120" value="0.819"/>
+    <point index="121" value="0.762"/>
+    <point index="122" value="0.686"/>
+    <point index="123" value="0.717"/>
+    <point index="124" value="0.283"/>
+    <point index="125" value="0.368"/>
+    <point index="126" value="0.546"/>
+    <point index="127" value="0.481"/>
+    <point index="128" value="0.139"/>
+    <point index="129" value="0.224"/>
+    <point index="130" value="0.148"/>
+    <point index="131" value="0.081"/>
+    <point index="132" value="0.197"/>
+    <point index="133" value="0.129"/>
+    <point index="134" value="0.215"/>
+    <point index="135" value="0.152"/>
+    <point index="136" value="0.232"/>
+    <point index="137" value="0.230"/>
+    <point index="138" value="0.447"/>
+    <point index="139" value="0.451"/>
+    <point index="140" value="0.662"/>
+    <point index="141" value="0.683"/>
+    <point index="142" value="0.750"/>
+    <point index="143" value="0.756"/>
+    <point index="144" value="0.268"/>
+    <point index="145" value="0.479"/>
+    <point index="146" value="0.685"/>
+    <point index="147" value="0.764"/>
+    <point index="148" value="0.756"/>
+    <point index="149" value="0.674"/>
+    <point index="150" value="0.465"/>
+    <point index="151" value="0.255"/>
+    <point index="152" value="0.118"/>
+    <point index="153" value="0.048"/>
+    <point index="154" value="0.030"/>
+    <point index="155" value="0.119"/>
+    <point index="156" value="0.263"/>
+    <point index="157" value="0.487"/>
+    <point index="158" value="0.673"/>
+    <point index="159" value="0.767"/>
+    <point index="160" value="0.771"/>
+    <point index="161" value="0.689"/>
+    <point index="162" value="0.505"/>
+    <point index="163" value="0.289"/>
+    <point index="164" value="0.139"/>
+    <point index="165" value="0.049"/>
+    <point index="166" value="0.085"/>
+    <point index="167" value="0.147"/>
+    <point index="168" value="0.249"/>
+    <point index="169" value="0.456"/>
+    <point index="170" value="0.683"/>
+    <point index="171" value="0.757"/>
+    <point index="172" value="0.751"/>
+    <point index="173" value="0.666"/>
+    <point index="174" value="0.451"/>
+    <point index="175" value="0.236"/>
+    <point index="176" value="0.140"/>
+    <point index="177" value="0.108"/>
+    <point index="178" value="0.063"/>
+    <point index="179" value="0.119"/>
+    <point index="180" value="0.258"/>
+    <point index="181" value="0.469"/>
+    <point index="182" value="0.680"/>
+    <point index="183" value="0.763"/>
+    <point index="184" value="0.817"/>
+    <point index="185" value="0.712"/>
+    <point index="186" value="0.539"/>
+    <point index="187" value="0.353"/>
+    <point index="188" value="0.208"/>
+    <point index="189" value="0.130"/>
+    <point index="190" value="0.176"/>
+    <point index="191" value="0.202"/>
+  </weights>
+  <weights deformer="skinCluster142" source="ray_sk_lf_upperlid" shape="EyeLashesShape" layer="164" defaultValue="0.000" size="96" max="191">
+    <point index="96" value="0.735"/>
+    <point index="97" value="0.509"/>
+    <point index="98" value="0.881"/>
+    <point index="99" value="0.970"/>
+    <point index="100" value="0.532"/>
+    <point index="101" value="0.236"/>
+    <point index="102" value="0.059"/>
+    <point index="103" value="0.220"/>
+    <point index="104" value="0.968"/>
+    <point index="105" value="0.890"/>
+    <point index="106" value="0.741"/>
+    <point index="107" value="0.012"/>
+    <point index="108" value="0.725"/>
+    <point index="109" value="0.503"/>
+    <point index="110" value="0.220"/>
+    <point index="111" value="0.031"/>
+    <point index="112" value="0.066"/>
+    <point index="113" value="0.230"/>
+    <point index="114" value="0.516"/>
+    <point index="115" value="0.726"/>
+    <point index="116" value="0.866"/>
+    <point index="117" value="0.936"/>
+    <point index="118" value="0.970"/>
+    <point index="119" value="0.877"/>
+    <point index="120" value="0.032"/>
+    <point index="121" value="0.023"/>
+    <point index="122" value="0.229"/>
+    <point index="123" value="0.202"/>
+    <point index="124" value="0.716"/>
+    <point index="125" value="0.630"/>
+    <point index="126" value="0.453"/>
+    <point index="127" value="0.519"/>
+    <point index="128" value="0.859"/>
+    <point index="129" value="0.765"/>
+    <point index="130" value="0.841"/>
+    <point index="131" value="0.914"/>
+    <point index="132" value="0.789"/>
+    <point index="133" value="0.864"/>
+    <point index="134" value="0.783"/>
+    <point index="135" value="0.847"/>
+    <point index="136" value="0.768"/>
+    <point index="137" value="0.770"/>
+    <point index="138" value="0.553"/>
+    <point index="139" value="0.549"/>
+    <point index="140" value="0.266"/>
+    <point index="141" value="0.248"/>
+    <point index="142" value="0.075"/>
+    <point index="143" value="0.079"/>
+    <point index="144" value="0.732"/>
+    <point index="145" value="0.521"/>
+    <point index="146" value="0.235"/>
+    <point index="147" value="0.069"/>
+    <point index="148" value="0.062"/>
+    <point index="149" value="0.241"/>
+    <point index="150" value="0.535"/>
+    <point index="151" value="0.745"/>
+    <point index="152" value="0.882"/>
+    <point index="153" value="0.952"/>
+    <point index="154" value="0.970"/>
+    <point index="155" value="0.881"/>
+    <point index="156" value="0.737"/>
+    <point index="157" value="0.513"/>
+    <point index="158" value="0.226"/>
+    <point index="159" value="0.019"/>
+    <point index="160" value="0.033"/>
+    <point index="161" value="0.217"/>
+    <point index="162" value="0.495"/>
+    <point index="163" value="0.711"/>
+    <point index="164" value="0.859"/>
+    <point index="165" value="0.949"/>
+    <point index="166" value="0.913"/>
+    <point index="167" value="0.853"/>
+    <point index="168" value="0.751"/>
+    <point index="169" value="0.544"/>
+    <point index="170" value="0.246"/>
+    <point index="171" value="0.077"/>
+    <point index="172" value="0.072"/>
+    <point index="173" value="0.261"/>
+    <point index="174" value="0.549"/>
+    <point index="175" value="0.764"/>
+    <point index="176" value="0.860"/>
+    <point index="177" value="0.887"/>
+    <point index="178" value="0.934"/>
+    <point index="179" value="0.881"/>
+    <point index="180" value="0.742"/>
+    <point index="181" value="0.531"/>
+    <point index="182" value="0.233"/>
+    <point index="183" value="0.024"/>
+    <point index="184" value="0.031"/>
+    <point index="185" value="0.205"/>
+    <point index="186" value="0.461"/>
+    <point index="187" value="0.645"/>
+    <point index="188" value="0.782"/>
+    <point index="189" value="0.861"/>
+    <point index="190" value="0.812"/>
+    <point index="191" value="0.796"/>
+  </weights>
+  <weights deformer="skinCluster142" source="ray_sk_lf_lowerlid" shape="EyeLashesShape" layer="165" defaultValue="0.000" size="32" max="185">
+    <point index="101" value="0.089"/>
+    <point index="102" value="0.184"/>
+    <point index="103" value="0.106"/>
+    <point index="107" value="0.220"/>
+    <point index="110" value="0.097"/>
+    <point index="111" value="0.199"/>
+    <point index="112" value="0.168"/>
+    <point index="113" value="0.082"/>
+    <point index="120" value="0.144"/>
+    <point index="121" value="0.215"/>
+    <point index="122" value="0.084"/>
+    <point index="123" value="0.081"/>
+    <point index="140" value="0.071"/>
+    <point index="141" value="0.069"/>
+    <point index="142" value="0.176"/>
+    <point index="143" value="0.165"/>
+    <point index="146" value="0.079"/>
+    <point index="147" value="0.167"/>
+    <point index="148" value="0.183"/>
+    <point index="149" value="0.085"/>
+    <point index="158" value="0.100"/>
+    <point index="159" value="0.214"/>
+    <point index="160" value="0.195"/>
+    <point index="161" value="0.094"/>
+    <point index="170" value="0.071"/>
+    <point index="171" value="0.166"/>
+    <point index="172" value="0.177"/>
+    <point index="173" value="0.073"/>
+    <point index="182" value="0.086"/>
+    <point index="183" value="0.213"/>
+    <point index="184" value="0.147"/>
+    <point index="185" value="0.084"/>
+  </weights>
+  <weights deformer="skinCluster142" source="ray_sk_rt_upperlid" shape="EyeLashesShape" layer="166" defaultValue="0.000" size="95" max="95">
+    <point index="0" value="0.587"/>
+    <point index="1" value="0.402"/>
+    <point index="2" value="0.876"/>
+    <point index="3" value="0.968"/>
+    <point index="4" value="0.491"/>
+    <point index="5" value="0.238"/>
+    <point index="6" value="0.084"/>
+    <point index="7" value="0.209"/>
+    <point index="8" value="0.968"/>
+    <point index="9" value="0.891"/>
+    <point index="10" value="0.743"/>
+    <point index="12" value="0.579"/>
+    <point index="13" value="0.397"/>
+    <point index="14" value="0.211"/>
+    <point index="15" value="0.010"/>
+    <point index="16" value="0.046"/>
+    <point index="17" value="0.231"/>
+    <point index="18" value="0.475"/>
+    <point index="19" value="0.727"/>
+    <point index="20" value="0.867"/>
+    <point index="21" value="0.936"/>
+    <point index="22" value="0.968"/>
+    <point index="23" value="0.872"/>
+    <point index="24" value="0.032"/>
+    <point index="25" value="0.006"/>
+    <point index="26" value="0.215"/>
+    <point index="27" value="0.193"/>
+    <point index="28" value="0.578"/>
+    <point index="29" value="0.505"/>
+    <point index="30" value="0.357"/>
+    <point index="31" value="0.410"/>
+    <point index="32" value="0.850"/>
+    <point index="33" value="0.755"/>
+    <point index="34" value="0.833"/>
+    <point index="35" value="0.908"/>
+    <point index="36" value="0.784"/>
+    <point index="37" value="0.862"/>
+    <point index="38" value="0.780"/>
+    <point index="39" value="0.847"/>
+    <point index="40" value="0.770"/>
+    <point index="41" value="0.756"/>
+    <point index="42" value="0.514"/>
+    <point index="43" value="0.515"/>
+    <point index="44" value="0.264"/>
+    <point index="45" value="0.237"/>
+    <point index="46" value="0.098"/>
+    <point index="47" value="0.084"/>
+    <point index="48" value="0.734"/>
+    <point index="49" value="0.482"/>
+    <point index="50" value="0.235"/>
+    <point index="51" value="0.054"/>
+    <point index="52" value="0.086"/>
+    <point index="53" value="0.242"/>
+    <point index="54" value="0.495"/>
+    <point index="55" value="0.747"/>
+    <point index="56" value="0.883"/>
+    <point index="57" value="0.952"/>
+    <point index="58" value="0.968"/>
+    <point index="59" value="0.876"/>
+    <point index="60" value="0.590"/>
+    <point index="61" value="0.405"/>
+    <point index="62" value="0.214"/>
+    <point index="63" value="0.003"/>
+    <point index="64" value="0.014"/>
+    <point index="65" value="0.209"/>
+    <point index="66" value="0.391"/>
+    <point index="67" value="0.568"/>
+    <point index="68" value="0.853"/>
+    <point index="69" value="0.946"/>
+    <point index="70" value="0.912"/>
+    <point index="71" value="0.854"/>
+    <point index="72" value="0.752"/>
+    <point index="73" value="0.509"/>
+    <point index="74" value="0.237"/>
+    <point index="75" value="0.081"/>
+    <point index="76" value="0.096"/>
+    <point index="77" value="0.259"/>
+    <point index="78" value="0.511"/>
+    <point index="79" value="0.766"/>
+    <point index="80" value="0.860"/>
+    <point index="81" value="0.885"/>
+    <point index="82" value="0.929"/>
+    <point index="83" value="0.876"/>
+    <point index="84" value="0.602"/>
+    <point index="85" value="0.420"/>
+    <point index="86" value="0.219"/>
+    <point index="87" value="0.006"/>
+    <point index="88" value="0.030"/>
+    <point index="89" value="0.194"/>
+    <point index="90" value="0.363"/>
+    <point index="91" value="0.516"/>
+    <point index="92" value="0.773"/>
+    <point index="93" value="0.853"/>
+    <point index="94" value="0.808"/>
+    <point index="95" value="0.794"/>
+  </weights>
+  <weights deformer="skinCluster142" source="ray_sk_rt_lowerlid" shape="EyeLashesShape" layer="167" defaultValue="0.000" size="32" max="89">
+    <point index="5" value="0.094"/>
+    <point index="6" value="0.195"/>
+    <point index="7" value="0.115"/>
+    <point index="11" value="0.233"/>
+    <point index="14" value="0.103"/>
+    <point index="15" value="0.219"/>
+    <point index="16" value="0.196"/>
+    <point index="17" value="0.086"/>
+    <point index="24" value="0.150"/>
+    <point index="25" value="0.242"/>
+    <point index="26" value="0.090"/>
+    <point index="27" value="0.086"/>
+    <point index="44" value="0.075"/>
+    <point index="45" value="0.072"/>
+    <point index="46" value="0.186"/>
+    <point index="47" value="0.176"/>
+    <point index="50" value="0.083"/>
+    <point index="51" value="0.189"/>
+    <point index="52" value="0.194"/>
+    <point index="53" value="0.090"/>
+    <point index="62" value="0.109"/>
+    <point index="63" value="0.233"/>
+    <point index="64" value="0.214"/>
+    <point index="65" value="0.101"/>
+    <point index="74" value="0.074"/>
+    <point index="75" value="0.176"/>
+    <point index="76" value="0.187"/>
+    <point index="77" value="0.077"/>
+    <point index="86" value="0.092"/>
+    <point index="87" value="0.240"/>
+    <point index="88" value="0.155"/>
+    <point index="89" value="0.089"/>
+  </weights>
+</deformerWeight>
